@@ -1,7 +1,4 @@
-<p align="center">
-  <img align="center" src="docs/docs/static/img/dspy_logo.png" width="460px" />
-</p>
-<p align="left">
+
 
 
 ## ConNex-IQEngine is a comprehensive, structured framework designed specifically to enable sophisticated software programming interactions with large language models (LLMs), fundamentally shifting the paradigm away from informal text prompting.
