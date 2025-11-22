@@ -4,24 +4,22 @@
 <p align="left">
 
 
-## DSPy: _Programming_—not prompting—Foundation Models
+## ConNex-IQEngine is a comprehensive, structured framework designed specifically to enable sophisticated software programming interactions with large language models (LLMs), fundamentally shifting the paradigm away from informal text prompting.
+It facilitates the creation of complex, logic-driven applications by treating the LLM as a computational resource rather than just a conversational interface.
+This approach allows developers to define inputs, logic flows, and outputs using established software engineering principles.
+The system integrates robust version control, debugging tools, and modular components necessary for enterprise-grade software development.
 
-**Documentation:** [DSPy Docs](https://dspy.ai/)
 
-[![PyPI Downloads](https://static.pepy.tech/personalized-badge/dspy?period=monthly)](https://pepy.tech/projects/dspy)
+
 
 
 ----
 
-DSPy is the framework for _programming—rather than prompting—language models_. It allows you to iterate fast on **building modular AI systems** and offers algorithms for **optimizing their prompts and weights**, whether you're building simple classifiers, sophisticated RAG pipelines, or Agent loops.
+ConNex-IQEngine is the framework for _programming—rather than prompting—language models_. It allows you to iterate fast on **building modular AI systems** and offers algorithms for **optimizing their prompts and weights**, whether you're building simple classifiers, sophisticated RAG pipelines, or Agent loops.
 
-DSPy stands for Declarative Self-improving Python. Instead of brittle prompts, you write compositional _Python code_ and use DSPy to **teach your LM to deliver high-quality outputs**. Learn more via our [official documentation site](https://dspy.ai/) or meet the community, seek help, or start contributing via this GitHub repo and our [Discord server](https://discord.gg/XCGy2WDCQB).
-
-
-## Documentation: [dspy.ai](https://dspy.ai)
+ConNex-IQEngine stands for Context aware Self-improving IQ Engine using Python. Instead of brittle prompts, you write compositional _Python code_ and use DSPy to **teach your LM to deliver high-quality outputs**.
 
 
-**Please go to the [DSPy Docs at dspy.ai](https://dspy.ai)**
 
 
 ## Installation
@@ -34,7 +32,7 @@ pip install dspy
 To install the very latest from `main`:
 
 ```bash
-pip install git+https://github.com/stanfordnlp/dspy.git
+pip install git+https://github.com/Prasad4455/ConNex-IQEngine.git
 ````
 
 
@@ -42,7 +40,6 @@ pip install git+https://github.com/stanfordnlp/dspy.git
 
 ## 📜 Citation & Reading More
 
-If you're looking to understand the framework, please go to the [DSPy Docs at dspy.ai](https://dspy.ai).
 
 If you're looking to understand the underlying research, this is a set of our papers:
 
@@ -56,11 +53,7 @@ If you're looking to understand the underlying research, this is a set of our pa
 [Dec'23] [DSPy Assertions: Computational Constraints for Self-Refining Language Model Pipelines](https://arxiv.org/abs/2312.13382)   
 [Dec'22] [Demonstrate-Search-Predict: Composing Retrieval & Language Models for Knowledge-Intensive NLP](https://arxiv.org/abs/2212.14024.pdf)
 
-To stay up to date or learn more, follow [@DSPyOSS](https://twitter.com/DSPyOSS) on Twitter or the DSPy page on LinkedIn.
 
-The **DSPy** logo is designed by **Chuyi Zhang**.
-
-If you use DSPy or DSP in a research paper, please cite our work as follows:
 
 ```
 @inproceedings{khattab2024dspy,
